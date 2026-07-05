@@ -80,9 +80,14 @@ THREAT LEVEL: [CLASS]
 \x1b[38;5;... (chafa color data follows)
 
 ```
+## Demo
+
+
+https://github.com/user-attachments/assets/21997f65-ea8f-4c52-b167-9199baebcd5f
+
+
 
 ##  Licence
-
 **MIT** 
 ## 
 Developed for Linux terminal environments.
