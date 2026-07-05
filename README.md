@@ -61,7 +61,7 @@ alias marvel="~/Projects/3000/venv/bin/python ~/Projects/3000/marvel.py"
 To add new characters to the `art/` directory, use `chafa` to generate the required symbol-based output:
 
 ```bash
-chafa --format=symbols --symbols vhalf --colors 256 -s 80x80 input_image.png > art/new_char.txt
+chafa --format=symbols --symbols vhalf --colors 256 -s 90x90 input_image.png > art/new_char.txt
 
 ```
 
